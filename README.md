@@ -1,7 +1,7 @@
-#Rebrain-Devops-taks1
+# Rebrain-Devops-taks1
 this is the test repository for devops course
 
-##Getting Started
+## Getting Started
 There is a nginx default configuration file in this repository
 
 ## Authors
